@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nanoid": "^4.0.0",
+    "yargs": "^17.6.2"
+  },
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "this is simple node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Marat Abdurakhamnov <abdurakhmanov.marat1997@gmail.com>",
+  "license": "ISC"
+}
